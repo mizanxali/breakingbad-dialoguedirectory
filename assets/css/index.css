@@ -1,0 +1,38 @@
+body {
+  background-image: url("../imgs/bb.jpg");
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+}
+
+#main {
+  width: 350px;
+  text-align: center;
+  margin: 350px auto;
+}
+
+.btn.btn-outline-light.btn-lg.btn-block {
+  border: 3px solid white;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+#devTag {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+}
+#devTag a {
+  color: white;
+}
+
+#title {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  margin: 0 auto;
+  font-size: 40px;
+  text-shadow: 2px 2px black;
+}
