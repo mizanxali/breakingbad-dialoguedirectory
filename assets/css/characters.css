@@ -4,6 +4,7 @@ body {
 
 .card {
   background-color: #245038;
+  width: 100%
 }
 
 .card-title {
