@@ -27,10 +27,6 @@ h1 {
   font-weight: bold;
 }
 
-p {
-  transition: color 0.3s;
-}
-
 p:hover {
   color: #d3cd30;
   font-size: 1.75em;
